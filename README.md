@@ -1,12 +1,9 @@
-[<p align="center">![Header](https://github.com/InputStudios/InputStudios/blob/master/Assets/GitLogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
+[<p align="center">![Header](https://github.com/InputStudios/input-studios/blob/master/assets/gitlogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00df00&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andrey+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Andrey and Welcome to my Profile! animated typed out" width="100%"/>
+<img src="./assets/border3.gif" width="100%"/>
 
 <h3 align="center">Interested in programming since 1998, improving my programming skills in C, JavaScript, PHP and various technology stacks such as MERN and XAMPP for developing E-Commerce applications and web services. A few years ago, I became interested in Unreal Engine and technologies for the production of computer games and VR content.</h3>
-<img src="./assets/border.gif" width="100%"/>
-
-<img src="./assets/coding.gif" width="50px" align="left"/>
-<img src="./assets/coding.gif" width="50px" align="right"/>
 
 <p align="center"> 
   <b>Profile Views</b><br>
@@ -15,7 +12,7 @@
 
 <h2></h2>
 
-<img align="right" src="./Assets/hologram.gif" height="560px" alt="cyberpunk sity">
+<img align="right" src="./assets/hologram.gif" height="560px" alt="cyberpunk sity">
 
 <h2 align="center"> Keen on programming and robotics! </h2><br>
 
@@ -31,8 +28,6 @@
 
 - :octocat: Hobbies: **Reading, Motocross, Cycling, Growing cacti** <br><br>
 
-<h2></h2>
-
 <div align="center">
   <h2> <strong> 📚 Education </strong> <img src="./assets/border.gif"/> </h2><br>
   <img src="https://img.shields.io/badge/Stepik-B1361E?style=for-the-badge&logo=Stepik&logoColor=white"/>
@@ -46,13 +41,11 @@
 
 <h2></h2>
 
-<div align="center"> 
-  <img src="./assets/cyberpunk.gif" alt="cyberpunk sity" width="100% /></br>
+<div align="center">
+  <img src="./assets/cyberpunk.gif" alt="cyberpunk" width="1000px"/><br>
 </div>
 
 <div align="center">
-  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/border.gif"/></h2><br>
   
