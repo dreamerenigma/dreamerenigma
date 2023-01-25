@@ -1,9 +1,9 @@
 [<p align="center">![Header](https://github.com/InputStudios/input-studios/blob/master/assets/gitlogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00df00&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andrey+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Andrey and Welcome to my Profile! animated typed out" width="100%"/>
-<img src="./assets/border3.gif" width="100%"/>
 
 <h3 align="center">Interested in programming since 1998, improving my programming skills in C, JavaScript, PHP and various technology stacks such as MERN and XAMPP for developing E-Commerce applications and web services. A few years ago, I became interested in Unreal Engine and technologies for the production of computer games and VR content.</h3>
+<img src="./assets/border.gif" width="100%"/>
 
 <p align="center"> 
   <b>Profile Views</b><br>
@@ -74,6 +74,15 @@
 </details>
 </div>
 
+<div align="left">
+<details>
+<summary>:top: Top Repositories:</summary>
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InputStudios&repo=UE4-CPP-Shooter-Series&show_owner=true)](https://github.com/InputStudios/UE4-CPP-Shooter-Series) <br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InputStudios&repo=InputStudios&show_owner=true)](https://github.com/InputStudios/InputStudios)
+</div>
+	
 <h2></h2>
 <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <p align="center"> 
@@ -116,19 +125,7 @@
   <img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,mongodb,nextjs,firebase" alt="skills actively learning logos"> <br> 
     <h3> <strong> Planning to Learn </strong></h3>
   <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,dotnet,electron,express,flask,graphql,kotlin,linux,lua,pytorch,r,tailwind,tensorflow,vue" alt="skills planning to learn logos">
-  
-<h2></h2>
-
-<div align="center">
-  <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/border.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=InputStudios&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=InputStudios&theme=radical" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=InputStudios&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
-</div> <br>
-
-![Andrey's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=InputStudios&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
-
-</br>
+	
 
 <h2></h2>
 
@@ -156,8 +153,17 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/inputgames"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="inputgames" /></a><a href="https://ko-fi.com/inputgames"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="inputgames" /></a></p><br><br><br><br><br>
+  
+<h2></h2>
 
-### Top Repositories
+<div align="center">
+  <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/border.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=InputStudios&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=InputStudios&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=InputStudios&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
+</div> <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InputStudios&repo=UE4-CPP-Shooter-Series&show_owner=true)](https://github.com/InputStudios/UE4-CPP-Shooter-Series)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InputStudios&repo=InputStudios&show_owner=true)](https://github.com/InputStudios/InputStudios)
+![Andrey's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=InputStudios&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
+
+</br>
+	
