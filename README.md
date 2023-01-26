@@ -1,16 +1,22 @@
-[<p align="center">![Header](https://github.com/InputStudios/input-studios/blob/master/assets/gitlogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
+[<p align="center">![Header](https://github.com/inputstudios/inputstudios/blob/master/assets/gitlogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00df00&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andrey+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Andrey and Welcome to my Profile! animated typed out" width="100%"/>
+
+<img src="./assets/robots.gif" width="32px" align="left"/>
+<img src="./assets/robots.gif" width="32px" align="right"/>
 
 <h3 align="center">Interested in programming since 1998, improving my programming skills in C, JavaScript, PHP and various technology stacks such as MERN and XAMPP for developing E-Commerce applications and web services. A few years ago, I became interested in Unreal Engine and technologies for the production of computer games and VR content.</h3>
 <img src="./assets/border.gif" width="100%"/>
 
 <p align="center"> 
   <b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/InputStudios/count.svg"/>
+  <img src="https://profile-counter.glitch.me/inputstudios/count.svg"/>
 </p>
 
 <h2></h2>
+
+<img src="./assets/robots.gif" width="32px" align="left"/>
+<img src="./assets/robots.gif" width="32px" align="right"/>
 
 <img align="right" src="./assets/hologram.gif" height="560px" alt="cyberpunk sity">
 
@@ -53,10 +59,10 @@
     <details>
       <summary>:chart_with_upwards_trend: Statistics:</summary>
         <p align="center">
-          <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/ username=InputStudios&langs_count=8&>&layout=compact" />
+          <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/ username=inputstudios&langs_count=8&>&layout=compact" />
 	<br />
         <p align="center">
-      <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InputStudios&show_icons=true" />
+      <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=inputstudios&show_icons=true" />
    </p>
 </details>
 </div>
@@ -77,10 +83,10 @@
 <div align="left">
 <details>
 <summary>:top: Top Repositories:</summary>
-	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InputStudios&repo=UE4-CPP-Shooter-Series&show_owner=true)](https://github.com/InputStudios/UE4-CPP-Shooter-Series) <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InputStudios&repo=InputStudios&show_owner=true)](https://github.com/InputStudios/InputStudios)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inputstudios&repo=UE4-CPP-Shooter-Series&show_owner=true)](https://github.com/InputStudios/UE4-CPP-Shooter-Series) <br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inputstudios&repo=inputstudios&show_owner=true)](https://github.com/inputstudios/inputstudios)
 </div>
 	
 <h2></h2>
@@ -152,18 +158,19 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/inputgames"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="inputgames" /></a><a href="https://ko-fi.com/inputgames"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="inputgames" /></a></p><br><br><br><br><br>
+<p><a href="https://www.buymeacoffee.com/inputstudios"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="inputstudios" /></a>
+<a href="https://ko-fi.com/inputstudios"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="inputstudios" /></a></p><br><br><br><br><br>
   
 <h2></h2>
 
 <div align="center">
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/border.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=InputStudios&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=InputStudios&theme=radical" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=InputStudios&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=inputstudios&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=inputstudios&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://github-readme-stats-inputstudios.vercel.app/api?username=InputStudio's&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
 </div> <br>
 
-![Andrey's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=InputStudios&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
+![Andrey's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=inputstudios&custom_title=InputStudio's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
 
 </br>
 	
