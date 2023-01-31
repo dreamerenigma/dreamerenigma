@@ -139,7 +139,7 @@
   <a href="https://github.com/inputstudios/UE4-CPP-Shooter-Series" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=inputstudios&theme=radical&repo=UE4-CPP-Shooter-Series" height="150" alt="UE4-CPP-Shooter-Series"/>
   </a>
-  <a href="https://github.com/inputstudios/UE4-CPP-Shooter-Series" target="_blank">
+  <a href="https://github.com/inputstudios/inputstudios" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=inputstudios&theme=radical&repo=inputstudios" height="150" alt="inputstudios"/>
   </a>
 
