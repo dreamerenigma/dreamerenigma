@@ -124,10 +124,10 @@
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/border.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=inputstudios&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=inputstudios&theme=radical" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=inputstudios&show_icons=true&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inputstudios&custom_title=InputStudio's%20GitHub%20Stats&&show_icons=true&theme=radical" height="150" alt="streaks graph" />
 </div> <br>
 
-![InputStudio's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=inputstudios&custom_title=InputStudio's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
+![Andrey's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=inputstudios&custom_title=InputStudio's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
 
 <h2></h2>
 
