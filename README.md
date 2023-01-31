@@ -148,15 +148,18 @@
 <img src="./assets/robots.gif" width="32px" align="left"/>
 <img src="./assets/robots.gif" width="32px" align="right"/>
 
-<h2> <strong> ℹ️ Informations and Contacts</strong><img src="./assets/border.gif"/></h2><br>
+<h2> <strong> 📹 Video and Contacts</strong><img src="./assets/border.gif"/></h2><br>
 
 <h3 align="left">Latest Youtube Video</h3>
-<h3 align="left"><!-- YOUTUBE:START -->
+<h3 align="left">
+<!-- YOUTUBE:START -->
+
 - [Castle Princess Game](https://www.youtube.com/watch?v=YWIhFmDf-ic)
 - [Matrix: Awakens - Small City gameplay use tools Houdini, SpeedTree, Unreal Engine 5](https://www.youtube.com/watch?v=wsvcdTs767Q)
 - [FPS Shooter game mechanics](https://www.youtube.com/watch?v=1Nx9vyO44EI)
 - [Branch under the sun - SpeedTree](https://www.youtube.com/watch?v=VtXYPEkF1MI)
 - [Night mission in FPS Shooter against drones](https://www.youtube.com/watch?v=VNo5lHzC9qw)
+	
 <!-- YOUTUBE:END --></h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -174,4 +177,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/inputstudios"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="inputstudios" /></a>
 <a href="https://ko-fi.com/inputstudios"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="inputstudios" /></a></p><br><br><br><br><br>
-	
