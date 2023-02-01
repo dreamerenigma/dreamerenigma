@@ -153,13 +153,11 @@
 <h3 align="left">Latest Youtube Video</h3>
 <h3 align="left">
 <!-- YOUTUBE:START -->
-
 - [Castle Princess Game](https://www.youtube.com/watch?v=YWIhFmDf-ic)
 - [Matrix: Awakens - Small City gameplay use tools Houdini, SpeedTree, Unreal Engine 5](https://www.youtube.com/watch?v=wsvcdTs767Q)
 - [FPS Shooter game mechanics](https://www.youtube.com/watch?v=1Nx9vyO44EI)
 - [Branch under the sun - SpeedTree](https://www.youtube.com/watch?v=VtXYPEkF1MI)
 - [Night mission in FPS Shooter against drones](https://www.youtube.com/watch?v=VNo5lHzC9qw)
-	
 <!-- YOUTUBE:END --></h3>
 
 <h3 align="left">Connect with me:</h3>
