@@ -130,6 +130,20 @@
 ![Andrey's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=inputstudios&custom_title=InputStudio's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 16 September 2022 - To: 30 January 2023
+
+Total Time: 57 hrs 12 mins
+
+Dart                   37 hrs 10 mins  >>>>>>>>>>>>>>>>---------   64.98 %
+XML                    8 hrs 57 mins   >>>>---------------------   15.67 %
+Kotlin                 4 hrs 52 mins   >>-----------------------   08.51 %
+YAML                   1 hr 48 mins    >------------------------   03.17 %
+Groovy                 1 hr 48 mins    >------------------------   03.16 %
+Gradle                 1 hr 27 mins    >------------------------   02.56 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2></h2>
