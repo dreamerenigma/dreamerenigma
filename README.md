@@ -132,16 +132,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 September 2022 - To: 30 January 2023
+From: 16 September 2022 - To: 02 February 2023
 
-Total Time: 57 hrs 12 mins
+Total Time: 58 hrs 6 mins
 
-Dart                   37 hrs 10 mins  >>>>>>>>>>>>>>>>---------   64.98 %
-XML                    8 hrs 57 mins   >>>>---------------------   15.67 %
-Kotlin                 4 hrs 52 mins   >>-----------------------   08.51 %
-YAML                   1 hr 48 mins    >------------------------   03.17 %
-Groovy                 1 hr 48 mins    >------------------------   03.16 %
-Gradle                 1 hr 27 mins    >------------------------   02.56 %
+Dart                   37 hrs 10 mins  >>>>>>>>>>>>>>>>---------   63.98 %
+XML                    9 hrs 4 mins    >>>>---------------------   15.61 %
+Kotlin                 5 hrs 7 mins    >>-----------------------   08.80 %
+Groovy                 1 hr 55 mins    >------------------------   03.32 %
+YAML                   1 hr 48 mins    >------------------------   03.12 %
+Gradle                 1 hr 48 mins    >------------------------   03.11 %
 ```
 
 <!--END_SECTION:waka-->
