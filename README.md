@@ -157,6 +157,21 @@ Gradle                 2 hrs 1 min     ▓▒▒▒▒▒▒▒▒▒▒▒▒�
 <img src="./assets/robots.gif" width="32px" align="left"/>
 <img src="./assets/robots.gif" width="32px" align="right"/>
 
+<div align="center">
+<h2> <strong> 📹 Video, Contacts and Support</strong><img src="./assets/border.gif"/></h2><br>
+<h3 align="left">Latest YouTube Video</h3>
+<h3 align="left">
+<!-- YOUTUBE:START -->
+	
+- [Castle Princess Game](https://www.youtube.com/watch?v=YWIhFmDf-ic)
+- [Matrix: Awakens - Small City gameplay use tools Houdini, SpeedTree, Unreal Engine 5](https://www.youtube.com/watch?v=wsvcdTs767Q)
+- [FPS Shooter game mechanics](https://www.youtube.com/watch?v=1Nx9vyO44EI)
+- [Branch under the sun - SpeedTree](https://www.youtube.com/watch?v=VtXYPEkF1MI)
+- [Night mission in FPS Shooter against drones](https://www.youtube.com/watch?v=VNo5lHzC9qw)
+<!-- YOUTUBE:END -->
+</h3>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/inputstudios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="volt-amperai" height="30" width="40" /></a>
