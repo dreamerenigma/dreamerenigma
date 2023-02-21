@@ -1,6 +1,6 @@
 [<p align="center">![Header](https://github.com/inputstudios/inputstudios/blob/master/assets/gitlogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00df00&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andrey+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Andrey and Welcome to my Profile! animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00df00&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andrey+and+welcome+to+my+profile!" align="middle" alt="Hey, I'm Andrey and welcome to my profile! animated typed out" width="100%"/>
 
 <h3 align="center">Interested in programming since 1998, improving my programming skills in C, JavaScript, PHP and various technology stacks such as MERN and LAMP for developing E-Commerce applications and web services. A few years ago, I became interested in Unreal Engine and technologies for the production of computer games and VR content.</h3>
 <img src="./assets/border.gif" width="100%"/>
@@ -29,9 +29,7 @@
 
 - ⚡ Fun fact **The shrimp is the noisiest inhabitant of the ocean.** <br><br><br>
 
-- :octocat: Hobbies: **Reading, Motocross, Cycling, Growing cacti** <br><br>
-
-<h2></h2>
+- :octocat: Hobbies: **Reading, Motocross, Cycling, Growing cacti** <br><br><br>
 
 <img src="./assets/robots.gif" width="32px" align="left"/>
 <img src="./assets/robots.gif" width="32px" align="right"/>
@@ -47,23 +45,20 @@
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </div></br>
 
-<h2></h2>
-
 <div align="center">
   <img src="./assets/cyberpunk.gif" alt="cyberpunk" width="1000px"/><br>
 </div>
+<br><br>
 
 <div align="center">
 	
 <img src="./assets/robots.gif" width="32px" align="left"/>
 <img src="./assets/robots.gif" width="32px" align="right"/>
 
-  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/border.gif"/></h2><br>
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/border.gif"/></h2>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inputstudios&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
-  
-	
-<h2></h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inputstudios&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+
 <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <p align="center"> 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -113,40 +108,37 @@
     <a href="https://dotnet.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/> </a>
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-<h2></h2>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><br><br><br>
 
 <img src="./assets/robots.gif" width="32px" align="left"/>
 <img src="./assets/robots.gif" width="32px" align="right"/>
 	
 <div align="center">
-  <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/border.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=inputstudios&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/border.gif"/></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=inputstudios&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" /> <br><br>
   <img src="https://streak-stats.demolab.com?user=inputstudios&theme=radical" height="150" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=inputstudios&custom_title=InputStudio's%20GitHub%20Stats&&show_icons=true&theme=radical" height="150" alt="streaks graph" />
 </div> <br>
 
-![Andrey's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=inputstudios&custom_title=InputStudio's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
+![Andrey's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=inputstudios&custom_title=InputStudio's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)<br>
 
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 September 2022 - To: 07 February 2023
+From: 16 September 2022 - To: 19 February 2023
 
-Total Time: 68 hrs 46 mins
+Total Time: 76 hrs 3 mins
 
-Dart                   37 hrs 10 mins  █████████████▓▒▒▒▒▒▒▒▒▒▒▒   54.06 %
-XML                    10 hrs 17 mins  ███▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   14.97 %
-Kotlin                 7 hrs 44 mins   ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   11.26 %
-YAML                   2 hrs 30 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   03.65 %
-Groovy                 2 hrs 21 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   03.43 %
-Gradle                 1 hr 55 mins    ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.81 %
+Dart                   37 hrs 10 mins  ████████████▒▒▒▒▒▒▒▒▒▒▒▒▒   48.88 %
+Kotlin                 12 hrs 47 mins  ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   16.83 %
+XML                    10 hrs 29 mins  ███▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   13.80 %
+YAML                   2 hrs 39 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   03.50 %
+Groovy                 2 hrs 29 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   03.28 %
+Gradle                 2 hrs 1 min     ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.66 %
 ```
 
 <!--END_SECTION:waka-->
-
-<h2></h2>
+<br><br>
 
 <img src="./assets/robots.gif" width="32px" align="left"/>
 <img src="./assets/robots.gif" width="32px" align="right"/>
@@ -159,23 +151,11 @@ Gradle                 1 hr 55 mins    ▓▒▒▒▒▒▒▒▒▒▒▒▒�
   <a href="https://github.com/inputstudios/inputstudios" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=inputstudios&theme=radical&repo=inputstudios" height="150" alt="inputstudios"/>
   </a>
-
-<h2></h2>
-
+</div>
+<br><br>
+	
 <img src="./assets/robots.gif" width="32px" align="left"/>
 <img src="./assets/robots.gif" width="32px" align="right"/>
-
-<h2> <strong> 📹 Video and Contacts</strong><img src="./assets/border.gif"/></h2><br>
-
-<h3 align="left">Latest Youtube Video</h3>
-<h3 align="left">
-<!-- YOUTUBE:START -->
-- [Castle Princess Game](https://www.youtube.com/watch?v=YWIhFmDf-ic)
-- [Matrix: Awakens - Small City gameplay use tools Houdini, SpeedTree, Unreal Engine 5](https://www.youtube.com/watch?v=wsvcdTs767Q)
-- [FPS Shooter game mechanics](https://www.youtube.com/watch?v=1Nx9vyO44EI)
-- [Branch under the sun - SpeedTree](https://www.youtube.com/watch?v=VtXYPEkF1MI)
-- [Night mission in FPS Shooter against drones](https://www.youtube.com/watch?v=VNo5lHzC9qw)
-<!-- YOUTUBE:END --></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -191,4 +171,4 @@ Gradle                 1 hr 55 mins    ▓▒▒▒▒▒▒▒▒▒▒▒▒�
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/inputstudios"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="inputstudios" /></a>
-<a href="https://ko-fi.com/inputstudios"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="inputstudios" /></a></p><br><br><br><br><br>
+<a href="https://ko-fi.com/inputstudios"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="inputstudios" /></a></p>
