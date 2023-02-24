@@ -125,16 +125,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 September 2022 - To: 21 February 2023
+From: 16 September 2022 - To: 22 February 2023
 
-Total Time: 78 hrs 12 mins
+Total Time: 81 hrs 4 mins
 
-Dart                   37 hrs 10 mins  ████████████▒▒▒▒▒▒▒▒▒▒▒▒▒   47.54 %
-Kotlin                 13 hrs 19 mins  ████▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   17.04 %
-XML                    10 hrs 29 mins  ███▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   13.42 %
-Groovy                 3 hrs 4 mins    █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   03.94 %
-YAML                   2 hrs 39 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   03.40 %
-Markdown               2 hrs 5 mins    ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.68 %
+Dart                   37 hrs 10 mins  ███████████▓▒▒▒▒▒▒▒▒▒▒▒▒▒   45.86 %
+Kotlin                 14 hrs 56 mins  ████▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   18.43 %
+XML                    11 hrs 17 mins  ███▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   13.93 %
+Groovy                 3 hrs 18 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   04.09 %
+YAML                   2 hrs 39 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   03.28 %
+Gradle                 2 hrs 16 mins   ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.81 %
 ```
 
 <!--END_SECTION:waka-->
