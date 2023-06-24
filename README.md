@@ -120,7 +120,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=inputstudios&custom_title=InputStudio's%20GitHub%20Stats&&show_icons=true&theme=radical" height="150" alt="streaks graph" />
 </div> <br>
 
-![Andrey's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=inputstudios&custom_title=InputStudio's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)<br>
+[![Andrey's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inputstudios&custom_title=Input&nbsp;Studio's&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)](https://github.com/inputstudios/github-readme-activity-graph)<br>
 
 <!--START_SECTION:waka-->
 
@@ -158,9 +158,10 @@ Groovy                 6 hrs 43 mins   █▒▒▒▒▒▒▒▒▒▒▒▒�
 
 <div align="center">
 <h2> <strong> 📹 Video, Contacts and Support</strong><img src="./assets/border.gif"/></h2><br>
-<h3 align="left">Latest YouTube Video</h3>
+<h3 align="left">Latest YouTube video:</h3>
 <h3 align="left">
 <!-- YOUTUBE:START -->
+	
 - [Bird Song Forest](https://www.youtube.com/watch?v=BzMp7il9LNI)
 - [Castle Princess Game](https://www.youtube.com/watch?v=YWIhFmDf-ic)
 - [Matrix: Awakens - Small City gameplay use tools Houdini, SpeedTree, Unreal Engine 5](https://www.youtube.com/watch?v=wsvcdTs767Q)
