@@ -125,15 +125,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2022 - To: 29 June 2023
+From: 16 September 2022 - To: 30 June 2023
 
-Total Time: 200 hrs 9 mins
+Total Time: 202 hrs 41 mins
 
-Kotlin                 64 hrs 57 mins  ████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   32.45 %
-Dart                   37 hrs 23 mins  ████▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   18.68 %
-XML                    27 hrs 52 mins  ███▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   13.92 %
-JavaScript             13 hrs 20 mins  █▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   06.67 %
-HTML                   12 hrs 38 mins  █▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   06.32 %
+Kotlin                 65 hrs 53 mins  ████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   32.51 %
+Dart                   37 hrs 23 mins  ████▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   18.45 %
+XML                    27 hrs 55 mins  ███▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   13.77 %
+JavaScript             13 hrs 23 mins  █▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   06.60 %
+HTML                   12 hrs 44 mins  █▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   06.29 %
 ```
 
 <!--END_SECTION:waka-->
