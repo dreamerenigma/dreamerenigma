@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Android, MERN, LAMP** <br><br><br>
 
-- 📫 How to reach me **verclocker1@gmail.com** <br><br><br>
+- 📫 How to reach me **jarekismail@gmail.com** <br><br><br>
 
 - ⚡ Fun fact **The shrimp is the noisiest inhabitant of the ocean.** <br><br><br>
 
