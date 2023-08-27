@@ -1,4 +1,8 @@
-[<p align="center">![Header](https://github.com/inputstudios/inputstudios/blob/master/assets/gitlogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
+<p align="center">
+  <a href="https://inputstudios.ru">
+    <img src="https://github.com/inputstudios/inputstudios/blob/master/assets/gitlogo.png" alt="Input Studios">
+  </a>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00df00&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andrey+and+welcome+to+my+profile!" align="middle" alt="Hey, I'm Andrey and welcome to my profile! animated typed out" width="100%"/>
 
