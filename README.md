@@ -143,8 +143,8 @@ Dart                   37 hrs 23 mins  ██▓▒▒▒▒▒▒▒▒▒▒�
 <!--END_SECTION:waka-->
 <br><br>
 <p float="left">
-   <img src="./assets/png/prog_mem_eng.png" width="500px" height="400" />
-   <img src="./assets/png/prog_mem_sleep_eng.png" width="500px" height="400" />
+   <img src="./assets/png/prog_mem_eng.png" width="400px" height="300" />
+   <img src="./assets/png/prog_mem_sleep_eng.png" width="400px" height="300" />
 </p>
 
 <br><br>
