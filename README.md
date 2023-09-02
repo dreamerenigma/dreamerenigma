@@ -1,12 +1,12 @@
-[<p align="center">![Header](https://github.com/inputstudios/inputstudios/blob/master/assets/gitlogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
+[<p align="center">![Header](https://github.com/inputstudios/inputstudios/blob/master/assets/png/gitlogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00df00&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andrey+and+welcome+to+my+profile!" align="middle" alt="Hey, I'm Andrey and welcome to my profile! animated typed out" width="100%"/>
 
 <h3 align="center">Interested in programming since 1998, improving my programming skills in C, JavaScript, PHP and various technology stacks such as MERN and LAMP for developing E-Commerce applications and web services. A few years ago, I became interested in Unreal Engine and technologies for the production of computer games and VR content.</h3>
-<img src="./assets/border.gif" width="100%"/>
+<img src="./assets/gif/border.gif" width="100%"/>
 
-<img src="./assets/robots.gif" width="32px" align="left"/>
-<img src="./assets/robots.gif" width="32px" align="right"/>
+<img src="./assets/gif/robots.gif" width="32px" align="left"/>
+<img src="./assets/gif/robots.gif" width="32px" align="right"/>
 
 <p align="center"> 
   <b>Profile Views</b><br>
@@ -15,9 +15,9 @@
 
 <h2></h2>
 
-<img align="right" src="./assets/hologram.gif" height="560px" alt="cyberpunk sity">
+<img align="right" src="./assets/gif/hologram.gif" height="560px" alt="cyberpunk sity">
 
-<h2 align="center"> Keen on programming and robotics!<img src="./assets/robots.gif" height="32px"/> </h2><br>
+<h2 align="center"> Keen on programming and robotics!<img src="./assets/gif/robots.gif" height="32px"/> </h2><br>
 
 - 👨‍💻 I’m currently working on **Dialog Chat** <br><br><br>
 
@@ -31,11 +31,11 @@
 
 - :octocat: Hobbies: **Reading, Motocross, Cycling, Growing cacti** <br><br><br>
 
-<img src="./assets/robots.gif" width="32px" align="left"/>
-<img src="./assets/robots.gif" width="32px" align="right"/>
+<img src="./assets/gif/robots.gif" width="32px" align="left"/>
+<img src="./assets/gif/robots.gif" width="32px" align="right"/>
 
 <div align="center">
-  <h2> <strong> 📚 Education </strong> <img src="./assets/border.gif"/> </h2><br>
+  <h2> <strong> 📚 Education </strong> <img src="./assets/gif/border.gif"/> </h2><br>
   <img src="https://img.shields.io/badge/Stepik-B1361E?style=for-the-badge&logo=Stepik&logoColor=white"/>
   <img src="https://img.shields.io/badge/Skillbox-0056D2?style=for-the-badge&logo=Skillbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
@@ -46,16 +46,16 @@
 </div></br>
 
 <div align="center">
-  <img src="./assets/cyberpunk.gif" alt="cyberpunk" width="1000px"/><br>
+  <img src="./assets/gif/cyberpunk.gif" alt="cyberpunk" width="1000px"/><br>
 </div>
 <br><br>
 
 <div align="center">
 	
-<img src="./assets/robots.gif" width="32px" align="left"/>
-<img src="./assets/robots.gif" width="32px" align="right"/>
+<img src="./assets/gif/robots.gif" width="32px" align="left"/>
+<img src="./assets/gif/robots.gif" width="32px" align="right"/>
 
-  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/border.gif"/></h2>
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/gif/border.gif"/></h2>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inputstudios&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
 
@@ -110,11 +110,11 @@
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><br><br><br>
 
-<img src="./assets/robots.gif" width="32px" align="left"/>
-<img src="./assets/robots.gif" width="32px" align="right"/>
+<img src="./assets/gif/robots.gif" width="32px" align="left"/>
+<img src="./assets/gif/robots.gif" width="32px" align="right"/>
 	
 <div align="center">
-  <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/border.gif"/></h2>
+  <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/gif/border.gif"/></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=inputstudios&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" /> <br><br>
   <img src="https://streak-stats.demolab.com?user=inputstudios&theme=radical" height="150" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=inputstudios&custom_title=InputStudio's%20GitHub%20Stats&&show_icons=true&theme=radical" height="150" alt="streaks graph" />
@@ -139,11 +139,15 @@ JavaScript             17 hrs 26 mins  ██▒▒▒▒▒▒▒▒▒▒▒�
 <!--END_SECTION:waka-->
 <br><br>
 
-<img src="./assets/robots.gif" width="32px" align="left"/>
-<img src="./assets/robots.gif" width="32px" align="right"/>
+<img src="./assets/gif/robots.gif" width="32px" align="left"/>
+<img src="./assets/gif/robots.gif" width="32px" align="right"/>
+
+<img src="./assets/png/prog_mem_eng.png" width="32px" align="right"/>
+<img src="./assets/png/prog_mem_sleep_eng.png" width="32px" align="right"/>
+
 
 <div align="center">
-  <h2 align="center"> 💼 Projects <img src="./assets/border.gif"/></h2><br>
+  <h2 align="center"> 💼 Projects <img src="./assets/gif/border.gif"/></h2><br>
   <a href="https://github.com/inputstudios/UE4-CPP-Shooter-Series" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=inputstudios&theme=radical&repo=UE4-CPP-Shooter-Series" height="150" alt="UE4-CPP-Shooter-Series"/>
   </a>
@@ -153,11 +157,11 @@ JavaScript             17 hrs 26 mins  ██▒▒▒▒▒▒▒▒▒▒▒�
 </div>
 <br><br>
 	
-<img src="./assets/robots.gif" width="32px" align="left"/>
-<img src="./assets/robots.gif" width="32px" align="right"/>
+<img src="./assets/gif/robots.gif" width="32px" align="left"/>
+<img src="./assets/gif/robots.gif" width="32px" align="right"/>
 
 <div align="center">
-<h2> <strong> 📹 Video, Contacts and Support</strong><img src="./assets/border.gif"/></h2><br>
+<h2> <strong> 📹 Video, Contacts and Support</strong><img src="./assets/gif/border.gif"/></h2><br>
 <h3 align="left">Latest YouTube video:</h3>
 <h3 align="left">   
   
