@@ -7,10 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00df00&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andrey+and+welcome+to+my+profile!" align="middle" alt="Hey, I'm Andrey and welcome to my profile! animated typed out" width="100%"/>
 
 <h3 align="center">Interested in programming since 1998, improving my programming skills in C, JavaScript, PHP and various technology stacks such as MERN and LAMP for developing E-Commerce applications and web services. A few years ago, I became interested in Unreal Engine and technologies for the production of computer games and VR content.</h3>
-<img src="./assets/border.gif" width="100%"/>
+<img src="./assets/gif/border.gif" width="100%"/>
 
-<img src="./assets/robots.gif" width="32px" align="left"/>
-<img src="./assets/robots.gif" width="32px" align="right"/>
+<img src="./assets/gif/robots.gif" width="32px" align="left"/>
+<img src="./assets/gif/robots.gif" width="32px" align="right"/>
 
 <p align="center"> 
   <b>Profile Views</b><br>
