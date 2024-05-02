@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://inputstudios.ru">
-    <img src="https://github.com/inputstudios/inputstudios/blob/master/assets/png/gitlogo.png" alt="Input Studios">
+    <img src="https://github.com/dreamerenigma/dreamerenigma/blob/master/assets/png/gitlogo.png" alt="Dreamer Enigma">
   </a>
 </p>
 
@@ -19,11 +19,11 @@
 
 <h2></h2>
 
-<img align="right" src="./assets/gif/hologram.gif" height="560px" alt="cyberpunk sity">
-
 <h2 align="center"> Keen on programming and robotics!<img src="./assets/gif/robots.gif" height="32px"/> </h2><br>
 
-- 👨‍💻 I’m currently working on **Dialog Chat** <br><br><br>
+<img align="right" src="./assets/gif/hologram.gif" height="560px" alt="cyberpunk sity">
+
+- 👨‍💻 I’m currently working on **Quantum Engine** <br><br><br>
 
 - 👨‍🎓 I’m currently learning **React & Node.js** <br><br><br>
 
@@ -35,10 +35,13 @@
 
 - :octocat: Hobbies: **Reading, Motocross, Cycling, Growing cacti** <br><br><br>
 
-<img src="./assets/gif/robots.gif" width="32px" align="left"/>
-<img src="./assets/gif/robots.gif" width="32px" align="right"/>
+<br><br>
 
 <div align="center">
+	
+<img src="./assets/gif/robots.gif" width="32px" align="left"/>
+<img src="./assets/gif/robots.gif" width="32px" align="right"/>
+ 
   <h2> <strong> 📚 Education </strong> <img src="./assets/gif/border.gif"/> </h2><br>
   <img src="https://img.shields.io/badge/Stepik-B1361E?style=for-the-badge&logo=Stepik&logoColor=white"/>
   <img src="https://img.shields.io/badge/Skillbox-0056D2?style=for-the-badge&logo=Skillbox&logoColor=white"/>
@@ -61,7 +64,7 @@
 
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/gif/border.gif"/></h2>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inputstudios&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamerenigma&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
 
 <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <p align="center"> 
@@ -74,7 +77,7 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <br>
@@ -82,8 +85,8 @@
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
     <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> 
+    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
@@ -97,34 +100,36 @@
     <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> 
     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
     <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a>
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 <h3> <strong> Actively Learning </strong></h3>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
+    <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <br>
     <h3> <strong> Planning to Learn </strong></h3>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://dotnet.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/> </a>
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><br><br><br>
 
+<div align="center">
+	
 <img src="./assets/gif/robots.gif" width="32px" align="left"/>
 <img src="./assets/gif/robots.gif" width="32px" align="right"/>
-	
-<div align="center">
+ 
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/gif/border.gif"/></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=inputstudios&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" /> <br><br>
-  <img src="https://streak-stats.demolab.com?user=inputstudios&theme=radical" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=inputstudios&custom_title=InputStudio's%20GitHub%20Stats&&show_icons=true&theme=radical" height="150" alt="streaks graph" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=dreamerenigma&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" /> <br><br>
+  <img src="https://streak-stats.demolab.com?user=dreamerenigma&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dreamerenigma&custom_title=Andrey&nbsp;Trepalin%20GitHub%20Stats&&show_icons=true&theme=radical" height="150" alt="streaks graph" />
 </div> <br>
 
-[![Andrey's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inputstudios&custom_title=Input&nbsp;Studio's&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)](https://github.com/inputstudios/github-readme-activity-graph)<br>
+[![Andrey's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dreamerenigma&custom_title=Andrey&nbsp;Trepalin&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)](https://github.com/inputstudios/github-readme-activity-graph)<br>
 
 <!--START_SECTION:waka-->
 
@@ -148,24 +153,29 @@ PHP                    90 hrs 2 mins   █▓▒▒▒▒▒▒▒▒▒▒▒�
 </p>
 
 <br><br>
-<img src="./assets/gif/robots.gif" width="32px" align="left"/>
-<img src="./assets/gif/robots.gif" width="32px" align="right"/>
 
 <div align="center">
-  <h2 align="center"> 💼 Projects <img src="./assets/gif/border.gif"/></h2><br>
-  <a href="https://github.com/inputstudios/UE4-CPP-Shooter-Series" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inputstudios&theme=radical&repo=UE4-CPP-Shooter-Series" height="150" alt="UE4-CPP-Shooter-Series"/>
-  </a>
-  <a href="https://github.com/inputstudios/inputstudios" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inputstudios&theme=radical&repo=inputstudios" height="150" alt="inputstudios"/>
-  </a>
-</div>
-<br><br>
 	
 <img src="./assets/gif/robots.gif" width="32px" align="left"/>
 <img src="./assets/gif/robots.gif" width="32px" align="right"/>
+	
+  <h2 align="center"> 💼 Projects <img src="./assets/gif/border.gif"/></h2>
+  
+  <a href="https://github.com/dreamerenigma/UE4-CPP-Shooter-Series" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dreamerenigma&theme=radical&repo=UE4-CPP-Shooter-Series" height="150" alt="UE4-CPP-Shooter-Series"/>
+  </a>
+  <a href="https://github.com/dreamerenigma/dreamerenigma" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dreamerenigma&theme=radical&repo=dreamerenigma" height="150" alt="Dreamer Enigma"/>
+  </a>
+</div>
+
+<br><br>
 
 <div align="center">
+	
+ <img src="./assets/gif/robots.gif" width="32px" align="left"/>
+ <img src="./assets/gif/robots.gif" width="32px" align="right"/>
+ 
 <h2> <strong> 📹 Video, Contacts and Support</strong><img src="./assets/gif/border.gif"/></h2><br>
 <h3 align="left">Latest YouTube video:</h3>
 <h3 align="left">   
@@ -189,7 +199,7 @@ PHP                    90 hrs 2 mins   █▓▒▒▒▒▒▒▒▒▒▒▒�
 <a href="https://www.facebook.com/r3duct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r3duct" height="30" width="40" /></a>
 <a href="https://dribbble.com/inputstudios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="inputgames" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-lxe9myi8qxh2m5uynl1oq" height="30" width="40" /></a>
-<a href="https://discord.gg/vUxP3wETuZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inputstudios" height="30" width="40" /></a>
+<a href="https://discord.gg/vSD27YNK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inputstudios" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
