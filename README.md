@@ -17,8 +17,6 @@
   <img src="https://profile-counter.glitch.me/inputstudios/count.svg"/>
 </p>
 
-<h2></h2>
-
 <h2 align="center"> Keen on programming and robotics!<img src="./assets/gif/robots.gif" height="32px"/> </h2><br>
 
 <img align="right" src="./assets/gif/hologram.gif" height="560px" alt="cyberpunk sity">
@@ -129,16 +127,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dreamerenigma&custom_title=Andrey&nbsp;Trepalin%20GitHub%20Stats&&show_icons=true&theme=radical" height="150" alt="streaks graph" />
 </div> <br>
 
+GitHub Contributions
+
 [![Andrey's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dreamerenigma&custom_title=Andrey&nbsp;Trepalin&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)](https://github.com/inputstudios/github-readme-activity-graph)<br>
 
-
-GitHub Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dreamerenigma/dreamerenigma/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dreamerenigma/dreamerenigma/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dreamerenigma/dreamerenigma/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br><br>
 WakaTime
 <!--START_SECTION:waka-->
 
@@ -210,7 +209,7 @@ Mems
 <a href="https://www.facebook.com/r3duct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r3duct" height="30" width="40" /></a>
 <a href="https://dribbble.com/inputstudios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="inputstudios" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-lxe9myi8qxh2m5uynl1oq" height="30" width="40" /></a>
-<a href="https://discord.gg/vSD27YNK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inputstudios" height="30" width="40" /></a>
+<a href="https://discord.gg/tgg89x4HXr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inputstudios" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
