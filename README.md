@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://inputstudios.ru">
-    <img src="https://github.com/dreamerenigma/dreamerenigma/blob/master/assets/png/gitlogo.png" alt="Dreamer Enigma">
+    <img src="https://github.com/dreamerenigma/dreamerenigma/blob/master/assets/gif/gitlogo.gif" alt="DreamerEnigma">
   </a>
 </p>
 
@@ -131,6 +131,15 @@
 
 [![Andrey's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dreamerenigma&custom_title=Andrey&nbsp;Trepalin&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)](https://github.com/inputstudios/github-readme-activity-graph)<br>
 
+
+GitHub Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dreamerenigma/dreamerenigma/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dreamerenigma/dreamerenigma/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dreamerenigma/dreamerenigma/output/github-contribution-grid-snake.svg">
+</picture>
+
+WakaTime
 <!--START_SECTION:waka-->
 
 ```txt
@@ -146,7 +155,9 @@ PHP                    90 hrs 8 mins   █▓▒▒▒▒▒▒▒▒▒▒▒�
 ```
 
 <!--END_SECTION:waka-->
+
 <br><br>
+Mems
 <p float="left">
    <img src="./assets/png/prog_mem_eng.png" width="400px" height="300" />
    <img src="./assets/png/prog_mem_sleep_eng.png" width="400px" height="300" />
@@ -197,7 +208,7 @@ PHP                    90 hrs 8 mins   █▓▒▒▒▒▒▒▒▒▒▒▒�
 <a href="https://linkedin.com/in/andrey-trepalin-a795561b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrey-trepalin-a795561b4" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15381038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15381038" height="30" width="40" /></a>
 <a href="https://www.facebook.com/r3duct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r3duct" height="30" width="40" /></a>
-<a href="https://dribbble.com/inputstudios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="inputgames" height="30" width="40" /></a>
+<a href="https://dribbble.com/inputstudios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="inputstudios" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-lxe9myi8qxh2m5uynl1oq" height="30" width="40" /></a>
 <a href="https://discord.gg/vSD27YNK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inputstudios" height="30" width="40" /></a>
 </p>
