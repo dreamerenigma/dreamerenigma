@@ -142,7 +142,7 @@ WakaTime
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2022 - To: 01 January 2025
+From: 16 September 2022 - To: 02 January 2025
 
 Total Time: 3,024 hrs 19 mins
 
