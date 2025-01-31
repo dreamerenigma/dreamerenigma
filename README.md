@@ -142,15 +142,15 @@ WakaTime
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2022 - To: 28 January 2025
+From: 16 September 2022 - To: 29 January 2025
 
-Total Time: 3,076 hrs 22 mins
+Total Time: 3,076 hrs 37 mins
 
 Dart                   1,038 hrs 1 min ████████▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   33.74 %
 JavaScript             549 hrs 57 mins ████▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   17.88 %
 Kotlin                 423 hrs 34 mins ███▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   13.77 %
 XML                    353 hrs 27 mins ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   11.49 %
-HTML                   96 hrs 8 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   03.13 %
+PHP                    96 hrs 16 mins  █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   03.13 %
 ```
 
 <!--END_SECTION:waka-->
