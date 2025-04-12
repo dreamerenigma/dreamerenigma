@@ -142,15 +142,15 @@ WakaTime
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2022 - To: 09 April 2025
+From: 16 September 2022 - To: 11 April 2025
 
-Total Time: 3,641 hrs 15 mins
+Total Time: 3,663 hrs 3 mins
 
-Dart                   1,558 hrs 15 mins██████████▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒   42.79 %
-JavaScript             554 hrs 44 mins ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   15.24 %
-Kotlin                 423 hrs 40 mins ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   11.64 %
-XML                    354 hrs 41 mins ██▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   09.74 %
-PHP                    96 hrs 33 mins  ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.65 %
+Dart                   1,579 hrs 41 mins███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒   43.12 %
+JavaScript             554 hrs 44 mins ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   15.14 %
+Kotlin                 423 hrs 40 mins ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   11.57 %
+XML                    354 hrs 41 mins ██▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   09.68 %
+PHP                    96 hrs 33 mins  ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.64 %
 ```
 
 <!--END_SECTION:waka-->
