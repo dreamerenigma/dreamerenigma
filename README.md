@@ -142,11 +142,11 @@ WakaTime
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2022 - To: 30 May 2026
+From: 16 September 2022 - To: 01 June 2026
 
-Total Time: 5,054 hrs 19 mins
+Total Time: 5,054 hrs 27 mins
 
-Dart                   2,349 hrs             ███████████▓▒▒▒▒▒▒▒▒▒▒▒▒▒   46.48 %
+Dart                   2,349 hrs 7 mins      ███████████▓▒▒▒▒▒▒▒▒▒▒▒▒▒   46.48 %
 JavaScript             622 hrs 20 mins       ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   12.31 %
 Kotlin                 425 hrs 38 mins       ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   08.42 %
 XML                    359 hrs 42 mins       ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   07.12 %
