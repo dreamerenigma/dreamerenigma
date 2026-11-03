@@ -174,13 +174,32 @@ Mems
 
   <h2>💼 Projects</h2>
 
-  <a href="https://github.com/dreamerenigma/UE4-CPP-Shooter-Series">
-    <img src="./profile/project-ue4-shooter.svg" height="150" alt="UE4 CPP Shooter Series" />
-  </a>
-
-  <a href="https://github.com/dreamerenigma/chatify-ai-api">
-    <img src="./profile/project-chatify-ai-api.svg" height="150" alt="Chatify AI API" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/dreamerenigma/sonora">
+          <img src="./profile/project-sonora.svg" height="150" alt="Sonora" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/dreamerenigma/chatify-flutter">
+          <img src="./profile/project-chatify-flutter.svg" height="150" alt="Chatify Flutter" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/dreamerenigma/notes-flutter">
+          <img src="./profile/project-notes-flutter.svg" height="150" alt="Notes Flutter" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/dreamerenigma/reader-book">
+          <img src="./profile/project-reader-book.svg" height="150" alt="Reader Book" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br><br>
