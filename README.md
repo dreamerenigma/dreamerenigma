@@ -169,16 +169,17 @@ Mems
 <br><br>
 
 <div align="center">
-  <img src="./assets/gif/robots.gif" width="32px" align="left"/>
-  <img src="./assets/gif/robots.gif" width="32px" align="right"/>
-	
-  <h2 align="center"> 💼 Projects <img src="./assets/gif/border.gif"/></h2>
-  
-  <a href="https://github.com/dreamerenigma/UE4-CPP-Shooter-Series" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dreamerenigma&theme=radical&repo=UE4-CPP-Shooter-Series" height="150" alt="UE4-CPP-Shooter-Series"/>
+  <img src="./assets/gif/robots.gif" width="32" align="left" alt="Robot" />
+  <img src="./assets/gif/robots.gif" width="32" align="right" alt="Robot" />
+
+  <h2>💼 Projects</h2>
+
+  <a href="https://github.com/dreamerenigma/UE4-CPP-Shooter-Series">
+    <img src="./profile/project-ue4-shooter.svg" height="150" alt="UE4 CPP Shooter Series" />
   </a>
-  <a href="https://github.com/dreamerenigma/dreamerenigma" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dreamerenigma&theme=radical&repo=dreamerenigma" height="150" alt="Dreamer Enigma"/>
+
+  <a href="https://github.com/dreamerenigma/chatify-ai-api">
+    <img src="./profile/project-chatify-ai-api.svg" height="150" alt="Chatify AI API" />
   </a>
 </div>
 
