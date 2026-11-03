@@ -12,12 +12,9 @@
 <img src="./assets/gif/robots.gif" width="32px" align="left"/>
 <img src="./assets/gif/robots.gif" width="32px" align="right"/>
 
-<p align="center"> 
-  <b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/inputstudios/count.svg"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dreamerenigma&style=for-the-badge&color=blueviolet" />
 </p>
-
-<h2></h2>
 
 <h2 align="center"> Keen on programming and robotics!<img src="./assets/gif/robots.gif" height="32px"/> </h2><br>
 
@@ -38,11 +35,11 @@
 <br><br>
 
 <div align="center">
-	
-<img src="./assets/gif/robots.gif" width="32px" align="left"/>
-<img src="./assets/gif/robots.gif" width="32px" align="right"/>
+  <img src="./assets/gif/robots.gif" width="32px" align="left"/>
+  <img src="./assets/gif/robots.gif" width="32px" align="right"/>
  
-  <h2> <strong> 📚 Education </strong> <img src="./assets/gif/border.gif"/> </h2><br>
+  <h2> <strong> 📚 Education </strong> <img src="./assets/gif/border.gif"/> </h2>
+  
   <img src="https://img.shields.io/badge/Stepik-B1361E?style=for-the-badge&logo=Stepik&logoColor=white"/>
   <img src="https://img.shields.io/badge/Skillbox-0056D2?style=for-the-badge&logo=Skillbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
@@ -50,21 +47,24 @@
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</div></br>
+</div>
 
 <div align="center">
   <img src="./assets/gif/cyberpunk.gif" alt="cyberpunk" width="1000px"/><br>
 </div>
+
 <br><br>
 
-<div align="center">
-	
-<img src="./assets/gif/robots.gif" width="32px" align="left"/>
-<img src="./assets/gif/robots.gif" width="32px" align="right"/>
+<div align="center">	
+  <img src="./assets/gif/robots.gif" width="32px" align="left"/>
+  <img src="./assets/gif/robots.gif" width="32px" align="right"/>
 
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/gif/border.gif"/></h2>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamerenigma&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=dreamerenigma&theme=radical&langs_count=10&card_width=540&layout=compact"
+    alt="Most used languages"
+  />
 
 <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <p align="center"> 
@@ -118,40 +118,41 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><br><br><br>
 
 <div align="center">
-	
-<img src="./assets/gif/robots.gif" width="32px" align="left"/>
-<img src="./assets/gif/robots.gif" width="32px" align="right"/>
- 
-  <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/gif/border.gif"/></h2>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=dreamerenigma&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" /> <br><br>
-  <img src="https://streak-stats.demolab.com?user=dreamerenigma&theme=radical" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dreamerenigma&custom_title=Andrey&nbsp;Trepalin%20GitHub%20Stats&&show_icons=true&theme=radical" height="150" alt="streaks graph" />
-</div> <br>
+  <img src="./assets/gif/robots.gif" width="32" align="left" alt="Robot" />
+  <img src="./assets/gif/robots.gif" width="32" align="right" alt="Robot" />
+
+  <h2>🏆 My GitHub Stats</h2>
+
+  <br />
+
+  <img src="./profile/streak.svg" height="150" alt="GitHub Streak" />
+  <img src="./profile/stats.svg" height="150" alt="GitHub Stats" />
+</div>
+
+GitHub Contributions
 
 [![Andrey's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dreamerenigma&custom_title=Andrey&nbsp;Trepalin&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)](https://github.com/inputstudios/github-readme-activity-graph)<br>
 
-
-GitHub Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dreamerenigma/dreamerenigma/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dreamerenigma/dreamerenigma/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dreamerenigma/dreamerenigma/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br><br>
 WakaTime
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2022 - To: 18 May 2024
+From: 16 September 2022 - To: 30 October 2026
 
-Total Time: 1,467 hrs 15 mins
+Total Time: 6,055 hrs 8 mins
 
-Kotlin                 422 hrs 3 mins  ███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   28.77 %
-XML                    346 hrs 20 mins ██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   23.60 %
-JavaScript             137 hrs 55 mins ██▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   09.40 %
-HTML                   94 hrs 57 mins  █▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   06.47 %
-PHP                    90 hrs 8 mins   █▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   06.14 %
+Dart                   3,220 hrs 54 mins     █████████████▓▒▒▒▒▒▒▒▒▒▒▒   53.19 %
+JavaScript             629 hrs 46 mins       ██▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   10.40 %
+Kotlin                 430 hrs 53 mins       ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   07.12 %
+XML                    362 hrs 14 mins       █▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   05.98 %
+TypeScript             226 hrs 32 mins       █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   03.74 %
 ```
 
 <!--END_SECTION:waka-->
@@ -210,7 +211,7 @@ Mems
 <a href="https://www.facebook.com/r3duct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r3duct" height="30" width="40" /></a>
 <a href="https://dribbble.com/inputstudios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="inputstudios" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-lxe9myi8qxh2m5uynl1oq" height="30" width="40" /></a>
-<a href="https://discord.gg/vSD27YNK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inputstudios" height="30" width="40" /></a>
+<a href="https://discord.gg/tgg89x4HXr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inputstudios" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
