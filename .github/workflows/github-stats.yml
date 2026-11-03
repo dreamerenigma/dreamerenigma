@@ -30,6 +30,14 @@ jobs:
           options: user=dreamerenigma&theme=radical&hide_border=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Generate Repository Pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=dreamerenigma&repo=dreamerenigma&theme=radical&show_owner=true
+          path: profile/pin-dreamerenigma.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated cards
         run: |
