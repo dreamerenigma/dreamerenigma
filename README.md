@@ -178,7 +178,7 @@ Mems
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dreamerenigma&theme=radical&repo=UE4-CPP-Shooter-Series" height="150" alt="UE4-CPP-Shooter-Series"/>
   </a>
   <a href="https://github.com/dreamerenigma/dreamerenigma" target="_blank">
-	<img src="./profile/pin-dreamerenigma.svg" height="150" alt="Dreamer Enigma Repository"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dreamerenigma&theme=radical&repo=dreamerenigma" height="150" alt="Dreamer Enigma"/>
   </a>
 </div>
 
@@ -188,16 +188,17 @@ Mems
  <img src="./assets/gif/robots.gif" width="32px" align="left"/>
  <img src="./assets/gif/robots.gif" width="32px" align="right"/>
  
- <h2> <strong> 📹 Video, Contacts and Support</strong><img src="./assets/gif/border.gif"/></h2><br>
- <h3 align="left">Latest YouTube video:</h3>
- <h3 align="left">   
-    <!-- YOUTUBE:START -->
-    - [Bird Song Forest](https://www.youtube.com/watch?v=BzMp7il9LNI)
-    - [Castle Princess Game](https://www.youtube.com/watch?v=YWIhFmDf-ic)
-    - [Matrix: Awakens - Small City gameplay use tools Houdini, SpeedTree, Unreal Engine 5](https://www.youtube.com/watch?v=wsvcdTs767Q)
-    - [FPS Shooter game mechanics](https://www.youtube.com/watch?v=1Nx9vyO44EI)
-    - [Branch under the sun - SpeedTree](https://www.youtube.com/watch?v=VtXYPEkF1MI)
-    <!-- YOUTUBE:END -->
+  <h2> <strong> 📹 Video, Contacts and Support</strong><img src="./assets/gif/border.gif"/></h2><br>
+  <h3 align="left">Latest YouTube video:</h3>
+  <h3 align="left">   
+    
+  <!-- YOUTUBE:START -->
+  - [Bird Song Forest](https://www.youtube.com/watch?v=BzMp7il9LNI)
+  - [Castle Princess Game](https://www.youtube.com/watch?v=YWIhFmDf-ic)
+  - [Matrix: Awakens - Small City gameplay use tools Houdini, SpeedTree, Unreal Engine 5](https://www.youtube.com/watch?v=wsvcdTs767Q)
+  - [FPS Shooter game mechanics](https://www.youtube.com/watch?v=1Nx9vyO44EI)
+  - [Branch under the sun - SpeedTree](https://www.youtube.com/watch?v=VtXYPEkF1MI)
+  <!-- YOUTUBE:END -->
   </h3>
 </div>
 
