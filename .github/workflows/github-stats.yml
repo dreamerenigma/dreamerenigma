@@ -42,23 +42,39 @@ jobs:
       - name: Create profile directory
         run: mkdir -p profile
 
-      - name: Generate UE4 Shooter Card
-        id: ue4-card
+      - name: Generate Sonora Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=dreamerenigma&repo=UE4-CPP-Shooter-Series&theme=radical&show_owner=true
-          path: profile/project-ue4-shooter.svg
+          options: username=dreamerenigma&repo=sonora&theme=radical&show_owner=true
+          path: profile/project-sonora.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Generate Chatify AI API Card
-        id: chatify-card
+      - name: Generate Chatify Flutter Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=dreamerenigma&repo=chatify-ai-api&theme=radical&show_owner=true
-          path: profile/project-chatify-ai-api.svg
+          options: username=dreamerenigma&repo=chatify-flutter&theme=radical&show_owner=true
+          path: profile/project-chatify-flutter.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate Notes Flutter Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=dreamerenigma&repo=notes-flutter&theme=radical&show_owner=true
+          path: profile/project-notes-flutter.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate Reader Book Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=dreamerenigma&repo=reader-book&theme=radical&show_owner=true
+          path: profile/project-reader-book.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
